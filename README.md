@@ -25,7 +25,7 @@ Thonny - https://thonny.org/
 * Follow instructions and enjoy your new Morse Code device!!
 
 ## Credits
-Thanks go to Print 'N Play and his video on beginner Pi Pico projects (https://www.youtube.com/watch?v=xTLjYVIuC4k)
+Thanks go to Print 'N Play and his video on beginner Pi Pico projects (https://www.youtube.com/watch?v=xTLjYVIuC4k) <br>
 Refactored his code a touch, but this is his creation!
 
 ## License
