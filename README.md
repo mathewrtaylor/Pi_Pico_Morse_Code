@@ -2,14 +2,14 @@
 using MicroPython to control a Pi Pico to translate a message to Morse Code.
 
 ## Bill of Materials
-1 Breadboard
-1 Raspberry Pi Pico
-1 1k ohm Resistor
-2 LED's
-1 Switch
-1 Pizo Speaker
-1 micro USB Cable
-8 Wires of varying length
+1. 1 Breadboard
+2. 1 Raspberry Pi Pico
+3. 1 1k ohm Resistor
+4. 2 LED's
+5. 1 Switch
+6. 1 Pizo Speaker
+7. 1 micro USB Cable
+8. 8 Wires of varying length
 
 ## Required Programs
 Thonny - https://thonny.org/
