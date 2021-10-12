@@ -1,5 +1,5 @@
 # Pi_Pico_Morse_Code
-using MicroPython to control a Pi Pico to translate a message to Morse Code.
+Using MicroPython to control a Pi Pico to translate a message to Morse Code.
 
 ## Bill of Materials
 1. 1 Breadboard
