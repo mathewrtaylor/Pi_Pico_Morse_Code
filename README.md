@@ -26,7 +26,8 @@ Thonny - https://thonny.org/
 
 ## Credits
 Thanks go to **Print 'N Play** and his video on beginner Pi Pico projects (https://www.youtube.com/watch?v=xTLjYVIuC4k) <br>
-Refactored his code a touch, but this is his creation!
+Refactored his code a touch, but this is his creation!<br>
+Also credit to SiN360 for pushing the thought along.  TY Sir!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
